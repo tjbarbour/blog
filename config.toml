@@ -1,3 +1,41 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://tjbarbour.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "T.J. Barbour"
+theme = "startbootstrap-clean-blog"
+
+[author]
+  name = "T.J. Barbour"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "My Personal Website & Blog"
+  Author = "T.J. Barbour"
+  email = "tjbarbour@gmail.com"
+  Ganalytics = "XX-00000000-0"
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/tjbarbour"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/tjbarbour"
+[[params.social]]
+  title = "stack-overflow"
+  url = "http://stackoverflow.com/users/37207/tjb"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = -180
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
+ [[menu.main]]
+  name = "Resume"
+  url = "https://dl.dropboxusercontent.com/u/4111188/TJ-Barbour-Resume.pdf"
+  weight = -180

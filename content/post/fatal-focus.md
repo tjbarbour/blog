@@ -7,7 +7,7 @@ description = "When your own focus is turned against you..."
 draft = false
 image = "/img/fatal-focus-bg.jpg"
 tags = ["ux", "bad-dog", "rant", "yes-im-doing-tag-jokes"]
-title = "fatal focus"
+title = "Fatal Focus"
 
 +++
 

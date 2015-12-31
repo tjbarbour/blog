@@ -1,0 +1,35 @@
+#head-links-container
+{
+    margin-top: 20px;
+}
+.head-link
+{
+    display:inline-block;
+    padding: 5px 10px;
+}
+
+.head-link a
+{
+    color: #fff;
+}
+
+.head-link a:active
+{
+    text-decoration: none;
+}
+
+.head-link a:hover
+{
+    text-decoration: none;
+    color: #ddd;
+}
+
+.head-link i
+{
+    font-size: 36px;
+}
+
+.head-link span
+{
+    font-size: 30px;
+}

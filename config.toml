@@ -8,7 +8,7 @@ theme = "startbootstrap-clean-blog"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "My Personal Website & Blog"
+  Description = "My Personal Website & Blog<br/>OLO"
   Author = "T.J. Barbour"
   email = "tjbarbour@gmail.com"
   Ganalytics = "XX-00000000-0"

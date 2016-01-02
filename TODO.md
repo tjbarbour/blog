@@ -1,0 +1,4 @@
+- Not my employer legalese
+- linkedin badge
+- maybe put badges in hero
+- Web Resume

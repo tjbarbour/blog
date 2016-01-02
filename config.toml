@@ -2,6 +2,7 @@ baseurl = "http://tjbarbour.github.io"
 languageCode = "en-us"
 title = "T.J. Barbour"
 theme = "startbootstrap-clean-blog"
+copyright = "The information in this weblog is provided \"AS IS\" with no warranties, and confers no rights.  This weblog does not represent the thoughts, intentions, plans or strategies of my employer. It is solely my opinion."
 
 [author]
   name = "T.J. Barbour"
@@ -12,7 +13,7 @@ theme = "startbootstrap-clean-blog"
   Author = "T.J. Barbour"
   email = "tjbarbour@gmail.com"
   Ganalytics = "XX-00000000-0"
-
+  
 [[params.social]]
   title = "twitter"
   url = "https://twitter.com/tjbarbour"

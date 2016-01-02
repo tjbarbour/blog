@@ -23,6 +23,9 @@ copyright = "The information in this weblog is provided \"AS IS\" with no warran
 [[params.social]]
   title = "stack-overflow"
   url = "http://stackoverflow.com/users/37207/tjb"
+[[params.social]]
+  title = "linkedin"
+  url = "https://www.linkedin.com/in/tjbarbour"
 
 [[menu.main]]
   name = "home"
